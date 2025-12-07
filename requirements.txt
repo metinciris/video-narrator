@@ -1,0 +1,12 @@
+
+---
+
+## 🧾 requirements.txt
+
+Repo köküne **requirements.txt** olarak kaydet:
+
+```text
+torch>=2.3.0
+transformers>=4.46.0
+soundfile>=0.12.1
+numpy>=1.26.0
